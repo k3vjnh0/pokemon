@@ -1,0 +1,13 @@
+h1 {
+  background-color: skyblue;
+  text-align: center;
+}
+
+.pokemon {
+  display: inline-block;
+  text-align: center;
+}
+
+.pokemon img {
+  display: block;
+}
